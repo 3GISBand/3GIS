@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/action_guides"
+        android:enabled="true"
+        android:icon="@drawable/bn_guides"
+        android:title="" />
+    <item
+        android:id="@+id/action_favorite"
+        android:enabled="true"
+        android:icon="@drawable/bn_favorite"
+        android:title="" />
+    <item
+        android:id="@+id/action_add_guide"
+        android:enabled="true"
+        android:icon="@drawable/bn_add_guide"
+        android:title="" />
+    <item
+        android:id="@+id/action_user"
+        android:enabled="true"
+        android:icon="@drawable/bn_user"
+        android:title="" />
+</menu>
